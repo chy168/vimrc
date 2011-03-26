@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/chy168/emesene-svn/developing/emesene2-chy168/emesene/gui/gtkui'
+let g:netrw_dirhist_2='/home/chy168/emesene-svn/developing/emesene2-chy168/emesene/gui'
+let g:netrw_dirhist_3='/home/chy168/emesene-svn/developing/emesene2-chy168/emesene/gui/gtkui'
+let g:netrw_dirhist_4='/home/chy168/emesene-svn/developing/emesene2-chy168/emesene/gui'
+let g:netrw_dirhist_5='/home/chy168/emesene-svn/developing/emesene2-chy168/emesene/gui/base'
+let g:netrw_dirhist_6='/home/chy168/codes/Python/tools/google_appengine'
+let g:netrw_dirhist_7='/etc/php/apache2-php5/ext-active'
+let g:netrw_dirhist_8='/home/chy168/memo'
