@@ -1,3 +1,0 @@
-[submodule "vim_home/bundle/xml.vim"]
-	path = vim_home/bundle/xml.vim
-	url = https://github.com/othree/xml.vim.git
