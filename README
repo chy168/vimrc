@@ -1,0 +1,12 @@
+INSTALLATION:
+    Clone
+
+    Link
+
+    git submodules
+        cd ~/.vim
+        git submodule init
+        git submodule update
+
+
+
