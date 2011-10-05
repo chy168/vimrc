@@ -1,7 +1,12 @@
+"for pathogen
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
 set encoding=utf-8
 set fileencodings=utf-8
 
 filetype plugin indent on
+
 set cursorline
 set tabstop=4	    "每個tab佔多少空格
 set expandtab
